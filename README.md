@@ -24,17 +24,21 @@ I would continue adding papers to this roadmap.
 
 **[0]** Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An MIT Press book. (2015). [[html]](http://www.deeplearningbook.org/) **(Deep Learning Bible, you can read this book while reading following papers.)** :star::star::star::star::star:
 
-## 1.1 Survey
+## 1.1 Video Lecture
+
+**[0]** Prof. Sudarshan Iyengar & Prof.Mitesh M. Khapra   |   IIT Madras "**NPTEL - Deep learning Part 1 & Part 2**." Swayam (NPTEL). [[html]](https://onlinecourses.nptel.ac.in/noc19_cs85/preview) **(Deep Learning Lecture, you can deep dive into deep learning concepts (Mathematics & Programming both) before reading following papers)** :star::star::star::star::star:
+
+## 1.2 Survey
 
 **[1]** LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "**Deep learning**." Nature 521.7553 (2015): 436-444. [[pdf]](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) **(Three Giants' Survey)** :star::star::star::star::star:
 
-## 1.2 Deep Belief Network(DBN)(Milestone of Deep Learning Eve)
+## 1.3 Deep Belief Network(DBN)(Milestone of Deep Learning Eve)
 
 **[2]** Hinton, Geoffrey E., Simon Osindero, and Yee-Whye Teh. "**A fast learning algorithm for deep belief nets**." Neural computation 18.7 (2006): 1527-1554. [[pdf]](http://www.cs.toronto.edu/~hinton/absps/ncfast.pdf)**(Deep Learning Eve)** :star::star::star:
 
 **[3]** Hinton, Geoffrey E., and Ruslan R. Salakhutdinov. "**Reducing the dimensionality of data with neural networks**." Science 313.5786 (2006): 504-507. [[pdf]](http://www.cs.toronto.edu/~hinton/science.pdf) **(Milestone, Show the promise of deep learning)** :star::star::star:
 
-## 1.3 ImageNet Evolution（Deep Learning broke out from here）
+## 1.4 ImageNet Evolution（Deep Learning broke out from here）
 
 **[4]** Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "**Imagenet classification with deep convolutional neural networks**." Advances in neural information processing systems. 2012. [[pdf]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) **(AlexNet, Deep Learning Breakthrough)** :star::star::star::star::star:
 
@@ -44,7 +48,7 @@ I would continue adding papers to this roadmap.
 
 **[7]** He, Kaiming, et al. "**Deep residual learning for image recognition**." arXiv preprint arXiv:1512.03385 (2015). [[pdf]](https://arxiv.org/pdf/1512.03385.pdf) **(ResNet,Very very deep networks, CVPR best paper)** :star::star::star::star::star:
 
-## 1.4 Speech Recognition Evolution
+## 1.5 Speech Recognition Evolution
 
 **[8]** Hinton, Geoffrey, et al. "**Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups**." IEEE Signal Processing Magazine 29.6 (2012): 82-97. [[pdf]](http://cs224d.stanford.edu/papers/maas_paper.pdf) **(Breakthrough in speech recognition)**:star::star::star::star:
 
